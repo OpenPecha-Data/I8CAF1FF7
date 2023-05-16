@@ -1,0 +1,18 @@
+id: I8CAF1FF7
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:45.305089
+last_modified: 2023-01-04 11:27:45.305106
+source_metadata:
+  collections:
+  - Adzom Gyalse Series
+  - Works of Tibetan Masters
+bases:
+  CCBB:
+    title: Notes on the Heart-Essence Practices of the Channels and Wind-Energies
+    base_file: CCBB.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
